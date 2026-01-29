@@ -1,0 +1,1 @@
+ExoMedico:Energia:baja,Metralleta:Municion:ilimitada,Bazuca:Municion:explosiva
